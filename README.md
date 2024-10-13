@@ -1,0 +1,1 @@
+echo "# MyThing" >> README.md
